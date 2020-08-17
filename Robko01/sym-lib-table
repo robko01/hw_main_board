@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Robko01-rescue)(type Legacy)(uri ${KIPRJMOD}/Robko01-rescue.lib)(options "")(descr ""))
+)
