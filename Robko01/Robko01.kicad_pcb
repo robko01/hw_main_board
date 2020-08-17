@@ -10,6 +10,14 @@
   )
 
   (page A4)
+  (title_block
+    (title "Rboko01 Main Board")
+    (rev 1.0)
+    (company 8BitClub)
+    (comment 1 "Orlin Dimitrov")
+    (comment 2 robko01@8bitclub.com)
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
@@ -6643,7 +6651,7 @@
     )
   )
 
-  (gr_text "Orlin Dimitrov 2019\nhttp://github.com/orlin369/Robko01" (at 173.99 46.482 270) (layer F.Cu)
+  (gr_text "Orlin Dimitrov 2019\nhttps://github.com/robko01/hw_main_board" (at 173.99 46.482 270) (layer F.Cu)
     (effects (font (size 1.5 1.5) (thickness 0.375)))
   )
   (gr_text "ROBCO 01-2P2-84" (at 195.326 39.37 270) (layer B.Cu) (tstamp 5C820B1C)
